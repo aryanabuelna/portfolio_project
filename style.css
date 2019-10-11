@@ -1,0 +1,22 @@
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+li{
+    margin-top: 25px;
+    margin-right: 55px; 
+    margin-left: 15px;
+    margin-bottom: 55px;
+}
+body{
+    
+}
+nav ul li a{
+    text-decoration: none;
+    color: #e74a56;
+}
+nav ul li a:hover{
+    color: #a98f8f;
+}
